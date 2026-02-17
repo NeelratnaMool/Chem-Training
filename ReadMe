@@ -1,1 +1,2 @@
-Basic python training
+add_hello.py
+print("Hello World")
